@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+backend/composer.phar
+backend/fuel/vendor/
+frontend/node_modules/
+backend/fuel/app/cache/*
+!backend/fuel/app/cache/.gitkeep
+backend/fuel/app/logs/*
+!backend/fuel/app/logs/.gitkeep
+backend/fuel/app/tmp/*
+!backend/fuel/app/tmp/.gitkeep
+.DS_Store
+.idea/
+.vscode/

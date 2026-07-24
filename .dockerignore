@@ -1,0 +1,9 @@
+.env
+.env.*
+.git
+backend/composer.phar
+backend/fuel/vendor
+backend/fuel/app/cache
+backend/fuel/app/logs
+backend/fuel/app/tmp
+frontend/node_modules
